@@ -14,6 +14,11 @@
   
     [github]: https://github.com/Team5DD
 
+* [__리팩토링 된 전체 프로젝트를 다운받고 싶으시다면 여기로 오세요!__][new]
+  
+    [new]: https://github.com/IIBluEll/MetaToy_Refactoring 
+
+
 </n>
 
 ## 개선 전 게임 플레이 영상
