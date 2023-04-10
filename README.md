@@ -16,7 +16,7 @@
 
 </n>
 
-### 개선 전 게임 플레이 영상
+## 개선 전 게임 플레이 영상
 
 [![OldVersionYT](https://img.youtube.com/vi/yil-smoRFbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=yil-smoRFbs)
 
@@ -25,7 +25,7 @@
 ***
 <br/>
 
-### 개선 후 게임 플레이 영상
+## 개선 후 게임 플레이 영상
 
 [![OldVersionYT](https://img.youtube.com/vi/Et_NBJbYsxM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Et_NBJbYsxM)
 
